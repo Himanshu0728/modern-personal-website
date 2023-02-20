@@ -85,7 +85,12 @@ a:hover{
 }
 .top_cloud {
     position: relative;
-    left: 250px;
+    left: 400px;
+}
+.bottom_cloud {
+    position: relative;
+    bottom: 300px;
+    right: 100px;
 }
 
 
